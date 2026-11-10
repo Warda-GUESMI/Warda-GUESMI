@@ -1,5 +1,8 @@
 <div align="center">
 
+<a href="https://github.com/Warda-GUESMI">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=3B5BA9&center=true&vCenter=true&width=600&lines=Java+%26+Spring+Boot;Artificial+Intelligence;Machine+Learning;Intelligent+Systems" alt="Typing SVG" />
+</a>
 
 
 <br/>
