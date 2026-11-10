@@ -1,20 +1,4 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F3A93,100:3B5BA9&height=140&section=header&text=Warda%20Guesmi&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=AI%20%26%20Backend%20Developer&descAlignY=70&descSize=18" width="100%" />
-
-<a href="https://github.com/Warda-GUESMI">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=3B5BA9&center=true&vCenter=true&width=600&lines=Java+%26+Spring+Boot;Artificial+Intelligence;Machine+Learning;Intelligent+Systems" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/warda-guesmi-07085831a">
-  <img src="https://img.shields.io/badge/LinkedIn-Warda%20Guesmi-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
-
----
 
 ## Focus
 
@@ -50,29 +34,7 @@
 
 ---
 
-## Projects
 
-| Project | Stack |
-|---|---|
-| [Solar Energy Management & Simulation](https://github.com/Warda-GUESMI/application-de-gestion-et-de-simulation-de-l-Energie-solaire-) | Java |
-| [Posteio Mail Server](https://github.com/Warda-GUESMI/serveur-mail-posteio) | Docker |
-| [E-commerce](https://github.com/Warda-GUESMI/e-commerce) | TypeScript |
-| [Portfolio](https://github.com/Warda-GUESMI/portfolio) | JavaScript |
-| [SunDel](https://github.com/Warda-GUESMI/SunDel-) | Java |
-| [SGBD Project](https://github.com/Warda-GUESMI/sgbdproject) | Java |
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Warda-GUESMI&show_icons=true&theme=default&hide_border=true&title_color=1F3A93&icon_color=3B5BA9&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Warda-GUESMI&layout=compact&theme=default&hide_border=true&title_color=1F3A93" />
-
-</div>
-
----
 
 ## Contact
 
